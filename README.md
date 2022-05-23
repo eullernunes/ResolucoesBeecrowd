@@ -1,2 +1,2 @@
-# Resolu-esBeecrowd
+#ResolucoesBeecrowd
 Resoluções de alguns problemas do beecrowd
